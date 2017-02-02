@@ -1,4 +1,4 @@
-# Unicode Normalizer
+# Neos - Unicode Normalizer
 
 This Neos package normalizes Unicode characters, often causing issues when copying text from PDFs into the Neos backend and then viewing it in IE/Edge.
 
