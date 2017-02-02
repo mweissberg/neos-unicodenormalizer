@@ -1,0 +1,4 @@
+prototype(CodeQ.UnicodeNormalizer:Normalizer) {
+	@class = 'CodeQ\\UnicodeNormalizer\\TypoScript\\NormalizerImplementation'
+	value = ${value}
+}
