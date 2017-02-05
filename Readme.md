@@ -4,7 +4,7 @@ This Neos package normalizes Unicode characters, often causing issues when copyi
 
 ## Usage
 
-1. Install with `composer require codeq/neos-normalizer`
+1. Install with `composer require codeq/unicodenormalizer`
 
 2. Wrap any object with processor to normalize its output,
 e.g. you would probably want to normalize full page output like this:
