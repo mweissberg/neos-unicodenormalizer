@@ -1,15 +1,15 @@
 <?php
 namespace CodeQ\UnicodeNormalizer\TypoScript;
 
-use TYPO3\Flow\Annotations as Flow;
-use TYPO3\Flow\Log\SystemLoggerInterface;
-use TYPO3\TypoScript\TypoScriptObjects\AbstractTypoScriptObject;
-use TYPO3\Neos\Exception as NeosException;
+use Neos\Flow\Annotations as Flow;
+use Neos\Flow\Log\SystemLoggerInterface;
+use Neos\Fusion\FusionObjects\AbstractFusionObject;
+use Neos\Neos\Exception as NeosException;
 
 /**
  * Normalizer
  */
-class NormalizerImplementation extends AbstractTypoScriptObject {
+class NormalizerImplementation extends AbstractFusionObject {
 
 	/**
 	 * Get value

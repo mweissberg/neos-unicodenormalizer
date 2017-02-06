@@ -1,5 +1,6 @@
-TYPO3:
+
+Neos:
   Neos:
-    typoScript:
+    fusion:
       autoInclude:
-        'CodeQ.UnicodeNormalizer': TRUE
+        CodeQ.UnicodeNormalizer: true
