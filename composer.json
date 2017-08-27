@@ -2,6 +2,7 @@
     "description": "Normalize unicode form",
     "type": "neos-package",
     "name": "codeq/unicodenormalizer",
+    "license": "GPL-3.0+",
     "require": {
         "typo3/flow": "~4.0"
     },
