@@ -1,5 +1,5 @@
 <?php
-namespace CodeQ\UnicodeNormalizer\TypoScript;
+namespace CodeQ\UnicodeNormalizer\Fusion;
 
 use Neos\Flow\Annotations as Flow;
 use Neos\Flow\Log\SystemLoggerInterface;
