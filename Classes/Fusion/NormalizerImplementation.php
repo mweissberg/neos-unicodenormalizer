@@ -17,7 +17,7 @@ class NormalizerImplementation extends AbstractFusionObject {
 	 * @return string
 	 */
 	public function getValue() {
-		return $this->tsValue('value');
+		return $this->fusionValue('value');
 	}
 
 	/**
