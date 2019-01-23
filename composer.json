@@ -5,7 +5,8 @@
     "license": "MIT",
     "keywords": ["flow", "neos", "fusion", "helper"],
     "require": {
-        "typo3/flow": "~4.0 || ~5.0"
+        "ext-intl" : "*",
+        "neos/flow": "~4.0 || ~5.0 || dev-master"
     },
     "autoload": {
         "psr-4": {
